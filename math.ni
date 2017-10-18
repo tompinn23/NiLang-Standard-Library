@@ -1,4 +1,4 @@
-def pub int square(int value)
+pub def int square(int value)
 {
 	return(value * value)
 }
