@@ -19,5 +19,6 @@ bool Stdout.WriteLine(string line)
 	
 }
 
+pub Stdout STDOUT = Stdout.new();
 
 
